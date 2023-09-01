@@ -9,7 +9,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/jainparas1dit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jainparas1dit" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/paras7403" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="paras7403" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/paras19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="paras19" height="30" width="40" /></a>
+<a href="https://leetcode.com/Paras7403" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="paras19" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/paras7403/practice" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="paras7403/practice" height="30" width="40" /></a>
 </p>
 
