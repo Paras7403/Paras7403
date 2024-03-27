@@ -9,12 +9,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/p" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="p" height="30" width="40" /></a>
+<a href="https://twitter.com/paras7403" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="p" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/jainparas1dit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jainparas1dit" height="30" width="40" /></a>
-<a href="https://fb.com/p" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="p" height="30" width="40" /></a>
-<a href="https://instagram.com/p" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="p" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/p" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="p" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/p" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="p" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100044631009503" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="p" height="30" width="40" /></a>
+<a href="https://www.instagram.com/parasjain7403/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="p" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/paras7403" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="p" height="30" width="40" /></a>
+<a href="https://leetcode.com/Paras7403" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="p" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/paras7403/practice" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="paras7403/practice" height="30" width="40" /></a>
 </p>
 
