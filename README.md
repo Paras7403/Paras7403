@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Paras Jain</h1>
 <h3 align="center">Logic wizard, shaping tech marvels</h3>
 
-- 👨‍💻 All of my projects are available at [https://paras7403.netlify.app/](https://paras7403.netlify.app/)
-
 - 📫 How to reach me **paras7403@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1l9Xj4FCSiVgco2hEHaB_TH7iCEa14unH/view](https://drive.google.com/file/d/1l9Xj4FCSiVgco2hEHaB_TH7iCEa14unH/view)
