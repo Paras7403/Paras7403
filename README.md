@@ -3,8 +3,6 @@
 
 - 📫 How to reach me **paras7403@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1l9Xj4FCSiVgco2hEHaB_TH7iCEa14unH/view](https://drive.google.com/file/d/1l9Xj4FCSiVgco2hEHaB_TH7iCEa14unH/view)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/paras7403" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="p" height="30" width="40" /></a>
