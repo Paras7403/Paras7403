@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Paras Jain</h1>
-<h3 align="center">Logic wizard, shaping tech marvels</h3>
 
 - 📫 How to reach me **paras7403@gmail.com**
 
